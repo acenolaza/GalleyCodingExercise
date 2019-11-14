@@ -1,7 +1,7 @@
 package io.github.acenolaza
 
-class Game(private var startShore: State = State(3, 3, true),
-           private var endShore: State = State(0, 0, false)) {
+class Game(var startShore: State = State(3, 3, true),
+           var endShore: State = State(0, 0, false)) {
 
     fun start() {
         do {
