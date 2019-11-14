@@ -18,4 +18,4 @@ Ok, enough introduction now let's talk code...
 Game structure is pretty simple. I have an App class which has a main method in charge of starting the game. All the game logic resides in the Game class.
 This class has a method with a loop that performs a cross and checks if game has reached the goal on each iteration. On each cross the program asks the user to input the animals that will board the boat and performs some validation before actually crossing them to the other shore. If validation passes the animals are crossed and then the boat will be on the other shore ready for a cross back.
 
-![alt text](https://imgur.com/U5la43c)
+![alt text](https://i.imgur.com/U5la43c.png)
