@@ -4,7 +4,7 @@
     <facet type="kotlin-language" name="Kotlin">
       <configuration version="3" platform="Native " allPlatforms="Native []" useProjectSettings="false" isTestModule="true" externalProjectId="GalleyCodingExercise">
         <sourceSets>
-          <sourceSet>GalleyCodingExercise.mingwMain</sourceSet>
+          <sourceSet>GalleyCodingExercise_mingwMain</sourceSet>
         </sourceSets>
         <newMppModelJpsModuleKind>COMPILATION_AND_SOURCE_SET_HOLDER</newMppModelJpsModuleKind>
         <compilerSettings />
