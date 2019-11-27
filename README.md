@@ -11,7 +11,7 @@ This one wolf takes the remaining wolves to the other side.
 
 Game solution was written in Kotlin since I always try to learn new things while solving this kind of exercises.
 
-I also did some research on how to build binaries for multiples platforms since I'm using Windows 10 but the person testing this could be using MacOS or Linux. Kotlin provides a technology called Kotlin/Native which allows compiling Kotlin code to native binaries, which can run without a virtual machine. This produces a self-contained program that does not require an additional runtime or virtual machine. The downside to this has been testing and debugging the code from withing IntelliJ IDEA.
+I also did some research on how to build binaries for multiples platforms since I'm using Windows 10 but the person testing this could be using MacOS or Linux. Kotlin provides a technology called Kotlin/Native which allows compiling Kotlin code to native binaries, which can run without a virtual machine. This produces a self-contained program that does not require an additional runtime or virtual machine. The downside to this has been testing and debugging the code from within IntelliJ IDEA.
 
 Ok, enough introduction now let's talk code...
 
